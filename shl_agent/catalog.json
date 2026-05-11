@@ -1,0 +1,312 @@
+[
+  {
+    "name": "Occupational Personality Questionnaire (OPQ32)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/occupational-personality-questionnaire-opq32/",
+    "test_type": "P",
+    "description": "Measures 32 personality characteristics relevant to workplace behavior. Predicts job performance, leadership, teamwork, and cultural fit.",
+    "categories": ["personality", "behavior", "leadership", "teamwork", "cultural fit"],
+    "job_levels": ["graduate", "professional", "manager", "senior", "executive"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Verify Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-reasoning/",
+    "test_type": "A",
+    "description": "Assesses ability to interpret and analyze numerical data, graphs, and tables. Used for roles requiring data analysis and financial reasoning.",
+    "categories": ["numerical reasoning", "cognitive ability", "data analysis", "analytical"],
+    "job_levels": ["graduate", "professional", "manager"],
+    "remote_testing": true,
+    "adaptive": true
+  },
+  {
+    "name": "Verify Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-reasoning/",
+    "test_type": "A",
+    "description": "Measures ability to evaluate and interpret written information. Essential for roles requiring strong communication and comprehension skills.",
+    "categories": ["verbal reasoning", "cognitive ability", "communication", "comprehension"],
+    "job_levels": ["graduate", "professional", "manager"],
+    "remote_testing": true,
+    "adaptive": true
+  },
+  {
+    "name": "Verify Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-inductive-reasoning/",
+    "test_type": "A",
+    "description": "Assesses ability to identify patterns and rules from abstract information. Measures problem-solving and logical thinking.",
+    "categories": ["inductive reasoning", "logical thinking", "problem solving", "cognitive ability"],
+    "job_levels": ["graduate", "professional", "manager"],
+    "remote_testing": true,
+    "adaptive": true
+  },
+  {
+    "name": "Verify Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/",
+    "test_type": "A",
+    "description": "Measures ability to apply rules and make logical decisions. Used for roles requiring analytical and structured thinking.",
+    "categories": ["deductive reasoning", "logical thinking", "analytical", "cognitive ability"],
+    "job_levels": ["graduate", "professional", "manager"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Verify G+ General Ability",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-g-plus-general-ability/",
+    "test_type": "A",
+    "description": "Combines numerical, inductive, and deductive reasoning into a single adaptive test. Measures overall cognitive ability for professional roles.",
+    "categories": ["general ability", "cognitive ability", "numerical", "logical", "problem solving"],
+    "job_levels": ["graduate", "professional", "manager", "senior"],
+    "remote_testing": true,
+    "adaptive": true
+  },
+  {
+    "name": "Motivation Questionnaire (MQ)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mq/",
+    "test_type": "P",
+    "description": "Assesses factors that increase or decrease an individual's motivation at work. Useful for roles where drive and engagement are critical.",
+    "categories": ["motivation", "engagement", "personality", "behavior"],
+    "job_levels": ["graduate", "professional", "manager", "senior"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Customer Contact Styles Questionnaire (CCSQ)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-contact-styles-questionnaire/",
+    "test_type": "P",
+    "description": "Measures personality traits relevant to customer service and contact center roles. Predicts service quality and customer interaction style.",
+    "categories": ["customer service", "personality", "contact center", "communication"],
+    "job_levels": ["entry", "graduate", "professional"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Sales Achievement Predictor (SalesAP)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-achievement-predictor/",
+    "test_type": "P",
+    "description": "Predicts sales performance by measuring personality traits and attitudes linked to success in sales roles.",
+    "categories": ["sales", "personality", "achievement", "commercial"],
+    "job_levels": ["entry", "graduate", "professional", "manager"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Situational Judgment Test (SJT)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/situational-judgement-test/",
+    "test_type": "B",
+    "description": "Presents realistic workplace scenarios and measures judgment and decision-making. Used across many roles to assess behavioral competencies.",
+    "categories": ["situational judgment", "decision making", "behavior", "competency"],
+    "job_levels": ["graduate", "professional", "manager"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Java Programming (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-programming-new/",
+    "test_type": "K",
+    "description": "Tests knowledge and skills in Java programming including OOP concepts, data structures, algorithms, and Java-specific frameworks.",
+    "categories": ["java", "programming", "software development", "coding", "technical"],
+    "job_levels": ["graduate", "professional", "senior"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
+    "test_type": "K",
+    "description": "Evaluates Python programming skills including scripting, OOP, data handling, and standard libraries.",
+    "categories": ["python", "programming", "software development", "coding", "technical", "data"],
+    "job_levels": ["graduate", "professional", "senior"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-new/",
+    "test_type": "K",
+    "description": "Assesses knowledge of SQL including queries, joins, aggregations, and database management concepts.",
+    "categories": ["sql", "database", "data", "technical", "programming"],
+    "job_levels": ["graduate", "professional", "senior"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+    "test_type": "K",
+    "description": "Tests JavaScript programming knowledge including ES6+, DOM manipulation, async programming, and frameworks.",
+    "categories": ["javascript", "programming", "web development", "frontend", "coding", "technical"],
+    "job_levels": ["graduate", "professional", "senior"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "C++ (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-plus-plus-new/",
+    "test_type": "K",
+    "description": "Evaluates C++ programming skills including memory management, OOP, STL, and systems-level programming.",
+    "categories": ["c++", "programming", "software development", "systems", "coding", "technical"],
+    "job_levels": ["graduate", "professional", "senior"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Microsoft .NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-dotnet-new/",
+    "test_type": "K",
+    "description": "Tests .NET framework knowledge including C#, ASP.NET, and enterprise application development.",
+    "categories": [".net", "c#", "microsoft", "programming", "enterprise", "coding", "technical"],
+    "job_levels": ["graduate", "professional", "senior"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Automata - Fix (Coding Simulation)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix/",
+    "test_type": "S",
+    "description": "Coding simulation where candidates fix broken code. Tests debugging skills, code comprehension, and problem-solving in real coding environments.",
+    "categories": ["coding", "debugging", "software development", "simulation", "programming"],
+    "job_levels": ["graduate", "professional", "senior"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Automata Pro (Coding Simulation)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-pro/",
+    "test_type": "S",
+    "description": "Advanced coding simulation requiring candidates to write code from scratch. Tests software engineering skills across multiple languages.",
+    "categories": ["coding", "software engineering", "simulation", "programming", "technical"],
+    "job_levels": ["professional", "senior"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Financial Accounting (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-accounting-new/",
+    "test_type": "K",
+    "description": "Measures knowledge of financial accounting principles including balance sheets, P&L, and financial statements.",
+    "categories": ["finance", "accounting", "financial analysis", "technical"],
+    "job_levels": ["graduate", "professional"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Numerical Reasoning (Calculation)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/numerical-calculation/",
+    "test_type": "A",
+    "description": "Tests speed and accuracy of numerical calculations. Suited for clerical, administrative, and data entry roles.",
+    "categories": ["numerical", "calculation", "clerical", "administrative", "accuracy"],
+    "job_levels": ["entry", "clerical", "administrative"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Verbal Reasoning (Comprehension)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verbal-comprehension/",
+    "test_type": "A",
+    "description": "Measures ability to understand and interpret written information at a basic level. Suitable for clerical and administrative roles.",
+    "categories": ["verbal", "comprehension", "clerical", "administrative", "communication"],
+    "job_levels": ["entry", "clerical", "administrative"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Checking (Clerical)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/checking/",
+    "test_type": "A",
+    "description": "Assesses speed and accuracy in checking and comparing data. Used for clerical, data entry, and administrative roles.",
+    "categories": ["checking", "accuracy", "clerical", "administrative", "data entry"],
+    "job_levels": ["entry", "clerical", "administrative"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Management and Graduate Item Bank (MGIB)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/management-and-graduate-item-bank/",
+    "test_type": "A",
+    "description": "Comprehensive cognitive ability test bank for graduate and management roles. Covers numerical, verbal, and abstract reasoning.",
+    "categories": ["cognitive ability", "graduate", "management", "numerical", "verbal", "abstract"],
+    "job_levels": ["graduate", "manager", "senior"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Graduate Item Bank (GIB)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-item-bank/",
+    "test_type": "A",
+    "description": "Cognitive ability assessments specifically designed for graduate-level recruitment across numerical, verbal, and abstract domains.",
+    "categories": ["cognitive ability", "graduate", "numerical", "verbal", "abstract"],
+    "job_levels": ["graduate"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Work Strengths (Personality)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/work-strengths/",
+    "test_type": "P",
+    "description": "Short personality questionnaire measuring key work-related strengths and preferences. Suitable for volume hiring and frontline roles.",
+    "categories": ["personality", "strengths", "behavior", "frontline", "volume hiring"],
+    "job_levels": ["entry", "clerical", "frontline"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Mechanical Comprehension (MCT2)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-comprehension/",
+    "test_type": "A",
+    "description": "Assesses understanding of mechanical and physical principles. Used for engineering, technical, and manufacturing roles.",
+    "categories": ["mechanical", "engineering", "technical", "manufacturing", "physical"],
+    "job_levels": ["entry", "graduate", "professional"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Spatial Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/spatial-reasoning/",
+    "test_type": "A",
+    "description": "Measures ability to visualize and mentally manipulate shapes and objects. Used for technical, engineering, and design roles.",
+    "categories": ["spatial", "engineering", "design", "technical", "visualization"],
+    "job_levels": ["entry", "graduate", "professional"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Microsoft Excel (Office)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel/",
+    "test_type": "K",
+    "description": "Tests practical knowledge of Microsoft Excel including formulas, pivot tables, and data analysis features.",
+    "categories": ["excel", "microsoft office", "technical", "data", "administrative"],
+    "job_levels": ["entry", "clerical", "professional"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Microsoft Word (Office)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-word/",
+    "test_type": "K",
+    "description": "Evaluates practical knowledge of Microsoft Word for document creation, formatting, and editing.",
+    "categories": ["word", "microsoft office", "administrative", "clerical", "technical"],
+    "job_levels": ["entry", "clerical", "administrative"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Leadership Report (OPQ-based)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/leadership-report/",
+    "test_type": "P",
+    "description": "Derived from OPQ32, provides a detailed report on leadership potential and style across key leadership competencies.",
+    "categories": ["leadership", "management", "personality", "executive", "competency"],
+    "job_levels": ["manager", "senior", "executive"],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Universal Competency Report (UCR)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-report/",
+    "test_type": "P",
+    "description": "OPQ-based report mapping personality traits to universal competencies. Used for selection and development across levels.",
+    "categories": ["competency", "personality", "behavior", "development", "selection"],
+    "job_levels": ["graduate", "professional", "manager", "senior"],
+    "remote_testing": true,
+    "adaptive": false
+  }
+]
